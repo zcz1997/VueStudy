@@ -14,6 +14,7 @@
       <li><NuxtLink to="/">📗 Day 1 - Nuxt 页面显示</NuxtLink></li>
       
       <li><NuxtLink to="/day3">📙 Day 3 - v-model 双向绑定</NuxtLink></li>
+      <li><NuxtLink to="/day4">📙 Day 4 - 列表渲染</NuxtLink></li>
       <!-- 后续可以继续添加 Day 4, 5 等 -->
     </ul>
   </div>
